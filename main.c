@@ -7,7 +7,6 @@ Thalles Emannuel Batista Pinheiro - 20200025580
 
 #include <stdio.h>
 #include "matrix.h"
-#include <math.h>
 
 int main(void)
 {
